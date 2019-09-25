@@ -1,0 +1,30 @@
+[submodule "start/nginx"]
+	path = start/nginx
+	url = https://github.com/chr4/nginx
+[submodule "start/nginx.vim"]
+	path = start/nginx.vim
+	url = https://github.com/chr4/nginx.vim
+[submodule "start/Dockerfile.vim"]
+	path = start/Dockerfile.vim
+	url = https://github.com/ekalinin/Dockerfile.vim
+[submodule "start/json5.vim"]
+	path = start/json5.vim
+	url = https://github.com/GutenYe/json5.vim
+[submodule "start/vim-multiple-cursors"]
+	path = start/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors
+[submodule "start/tabular"]
+	path = start/tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "start/vim-better-whitespace"]
+	path = start/vim-better-whitespace
+	url = https://github.com/ntpeters/vim-better-whitespace
+[submodule "start/vim-go"]
+	path = start/vim-go
+	url = https://github.com/fatih/vim-go
+[submodule "opt/nerdTree"]
+	path = opt/nerdTree
+	url = https://github.com/scrooloose/nerdTree
+[submodule "start/minibufexpl.vim"]
+	path = start/minibufexpl.vim
+	url = https://github.com/fholgado/minibufexpl.vim
