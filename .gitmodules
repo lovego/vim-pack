@@ -31,3 +31,6 @@
 [submodule "start/pgsql.vim"]
 	path = start/pgsql.vim
 	url = https://github.com/lifepillar/pgsql.vim
+[submodule "start/vim-vue"]
+	path = start/vim-vue
+	url = https://github.com/posva/vim-vue.git
