@@ -3,7 +3,7 @@ filetype plugin indent on
 
 syntax on
 set fencs=utf8,gbk
-set number ruler hlsearch expandtab shiftwidth=2 tabstop=2 backspace=2
+set number ruler hlsearch expandtab shiftwidth=2 tabstop=2 backspace=indent,eol,start
 colo desert
 highlight ColorColumn ctermbg=255
 set colorcolumn=101
