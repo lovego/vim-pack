@@ -37,3 +37,6 @@
 [submodule "start/vim-ps1"]
 	path = start/vim-ps1
 	url = https://github.com/PProvost/vim-ps1.git
+[submodule "start/vim-prettier"]
+	path = start/vim-prettier
+	url = https://github.com/prettier/vim-prettier
